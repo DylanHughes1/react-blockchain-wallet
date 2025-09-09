@@ -1,4 +1,4 @@
-## Wonderland DeFi Frontend
+## Web3 Wallet DApp – React + Zustand
 
 A Next.js app demonstrating wallet connection, network detection, balances, approve/transfer, mint, and live event tables using Wagmi/Viem and Material UI. Includes unit tests (Vitest) and E2E tests (Cypress). State managed with Zustand.
 

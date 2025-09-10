@@ -14,7 +14,7 @@ import {
 const wcProjectId = process.env.NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID ?? "";
 
 export const config = getDefaultConfig({
-    appName: "Wonderland Challenge",
+    appName: "Blockchain Wallet",
     projectId: wcProjectId,
     chains: [
         mainnet,

@@ -33,7 +33,7 @@ function Page() {
       <AppBar position="static" elevation={0} sx={{ backgroundColor: 'primary.main' }}>
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontWeight: 600 }}>
-            Wonderland DeFi
+            Blockchain Wallet
           </Typography>
           <Chip
             label="Sepolia Testnet"
